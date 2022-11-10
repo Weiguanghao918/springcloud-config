@@ -1,6 +1,2 @@
-
-server:
-  port: 3344
-
-
-  test环境
+config:
+  info: main branch,springcloud-config/config.test.yml version=1
